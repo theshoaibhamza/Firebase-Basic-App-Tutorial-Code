@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "864114826051",
+    "project_id": "terybin-4aec3",
+    "storage_bucket": "terybin-4aec3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864114826051:android:0f2d124efc1063a2b22df6",
+        "android_client_info": {
+          "package_name": "com.example.terybin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864114826051-ljhj2u5ht4he9mrdjkmsj3aov4j34i99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.terybin",
+            "certificate_hash": "dd116fadf87050d60e70d34abef0205c1a72924f"
+          }
+        },
+        {
+          "client_id": "864114826051-qb54q5ejf849apc8minv6cf3lnaq8rlt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHFlvlmyjcHw92BEa9aXNES5jUqvhYttQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864114826051-qb54q5ejf849apc8minv6cf3lnaq8rlt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
